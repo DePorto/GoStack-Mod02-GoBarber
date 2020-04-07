@@ -1,6 +1,4 @@
 /* eslint-disable class-methods-use-this */
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-empty-function */
 import User from '../models/User';
 import File from '../models/File';
 
